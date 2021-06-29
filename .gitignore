@@ -1,8 +1,3 @@
-node_modules/
-docs/build
-react-table.js
-react-table.min.js
-react-table.css
 *.log
 .idea
 .DS_Store
